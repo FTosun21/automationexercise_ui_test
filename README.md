@@ -14,7 +14,7 @@ To get start with this framework, you will need to have the following software o
 
 • Java 8 or later \
 • Maven 4.7 or later \
-• For download step Chrome should be used
+• For download step chrome_download should be used
 1. Open terminal or command prompt and navigate to the root directory of the project.
 2. Run the following command to download the required dependencies:
     #### mvn clean install
