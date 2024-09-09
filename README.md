@@ -34,10 +34,10 @@ Choose one of the test cases from 12, 16 or 24 \
 Use Selenium and Python/Java to create a test framework 
 
 ### What I did?
-I chose Test Case 24: Download Invoice after purchase order. \
-The test case consists of 25 steps. \
+I chose Test Case 24: Download Invoice after purchase order.\
+The test case consists of 25 steps.\
 I configured Chrome for the "Download Invoice" step. Other browsers are available in the driver class, but they cannot be used for the download invoice step.\
-The test scenario was done in e2e format. \
+The test scenario was done in e2e format.\
 
 ___
 ### My framework is a Cucumber and Hybrid Framework which contains BDD and DDT Frameworks.
